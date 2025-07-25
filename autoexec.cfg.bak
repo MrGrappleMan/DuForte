@@ -1,0 +1,36 @@
+// Attack Shortcuts
+alias +atk1 +attack
+alias +atk2 +attack2
+alias +atk3 +attack3
+alias -atk1 -attack
+alias -atk2 -attack2
+alias -atk3 -attack3
+// Slot Shortcuts(they may seem useless, but you can make slots(even the attacks above) do actions when you press their respective keys)
+alias slt1 slot1
+alias slt2 slot2
+alias slt3 slot3
+alias slt4 slot4
+alias slt5 slot5
+// Toggled Attacks
+alias +tgatk1 "+atk1; play indic8ors/ontgatk1.wav; bind mouse1 -tgatk1"
+alias -tgatk1 "-atk1; play indic8ors/offtgatk1.wav; bind mouse1 +tgatk1"
+alias +tgatk2 "+atk2; play indic8ors/ontgatk2.wav; bind mouse2 -tgatk2"
+alias -tgatk2 "-atk2; play indic8ors/offtgatk2.wav; bind mouse2 +tgatk2"
+alias +tgatk3 "+atk3; play indic8ors/ontgatk3.wav; bind mouse3 -tgatk3"
+alias -tgatk3 "-atk3; play indic8ors/offtgatk3.wav; bind mouse3 +tgatk3"
+// Crouchjumping
+alias +cjump "+jump; +duck; spec_mode"
+alias -cjump "-jump; -duck"
+bind space +cjump
+bind k "kill; play suicide.wav"
+// Fun commands(can be useful)
+alias +yawleft "cl_yawspeed 262144; +left"
+alias -yawleft "cl_yawspeed 210; -left"
+alias +yawright "cl_yawspeed 262144; +right"
+alias -yawright "cl_yawspeed 210; -right"
+// Terminal Emergency commands(df is default)
+alias unatk "-atk1; -atk2; -atk3"
+alias dfslt "bind 1 slt1; bind 2 slt2; bind 3 slt3; bind 4 slt4; bind 5 slt5"
+alias dfms "bind mouse1 +atk1; bind mouse2 +atk2; bind mouse3 +atk3"
+alias dfjp "bind space +cjump"
+alias panik "unatk; dfslt; dfms; dfjp"
