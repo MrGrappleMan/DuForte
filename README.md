@@ -1,9 +1,9 @@
 ### Please backup any config files you have saved
 
 # To apply config:
-1. Set up mastercomfig prior to it.
-2. [Download the repo](https://github.com/MrGrappleMan/tf2-cfg/archive/refs/heads/main.zip). Extract it. You have to put the tf folder alongside the tf folder pre-existing on your machine, which will merge the folders.
-3. Use launch options:
+1. [Download the repo](https://github.com/MrGrappleMan/tf2-cfg/archive/refs/heads/main.zip). Extract it. You have to put the tf folder alongside the tf folder pre-existing on your machine, which will merge the folders.
+2. Use launch options:
 ```
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -nostartupsound -console -precachefontchars -noipx -softparticlesdefaultoff -high -full
 ```
+Optional, my HUD [FocusUI](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
