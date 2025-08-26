@@ -10,6 +10,8 @@
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -nostartupsound -console -precachefontchars -noipx -softparticlesdefaultoff -high -full
 ```
 
-HUD: [FocusUI](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
-Killsound: [Taco Bell]()
-Hitsound: [To be decided]()
+Recommended Extras
+
+HUD, [FocusUI](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
+Killsound, [Taco Bell]()
+Hitsound, [To be decided]()
