@@ -7,8 +7,9 @@
    You have to put the "tf" folder alongside the "tf" folder pre-existing on your machine, which will merge the folders and replace some content.
 2. Use these launch options in Steam:
 ```
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -nostartupsound -console -precachefontchars -noipx -softparticlesdefaultoff -high -full
+-nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full
 ```
+Remove the first 2 if you use remote play.
 
 Recommended Extras
 
