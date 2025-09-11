@@ -1,3 +1,0 @@
-alias dfslt "bind 1 slt1; bind 2 slt2; bind 3 slt3; bind 4 slt4; bind 5 slt5"
-alias dfms "bind mouse1 +atk1; bind mouse2 +atk2; bind mouse3 +atk3"
-alias panik "-atka;dfslt;dfms"
