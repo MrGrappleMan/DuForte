@@ -1,4 +1,4 @@
-### Please backup any config, hud, map or sound files if you have any, or them away prior to using this
+### Please backup any configurations, huds, maps or sound files if you have any, or move them away prior to using this
 
 ![Latest commit made to project on](https://img.shields.io/github/last-commit/MrGrappleMan/DuForte?style=for-the-badge)
 
@@ -12,4 +12,4 @@
 Remove the first 2 flags if you use Steam Remote play or any sort of controller.
 3. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
 
-It uses a mix of mastercomfig settings and custom aliases for enhancing performance.
+It uses a mix of [mastercomfig](https://comfig.app/app/) 9.100.0 settings and custom aliases for enhancing performance.
