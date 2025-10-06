@@ -26,7 +26,7 @@
 	"viewmodel" "models/weapons/c_models/c_pistol/c_pistol.mdl"
 	"playermodel" "models/weapons/c_models/c_pistol/c_pistol.mdl"
 	"anim_prefix" "ac"
-	"MuzzleFlashParticleEffect" ""
+	"MuzzleFlashParticleEffect" "muzzle_pistol"
 	"SoundData"
 	{
 		"reload" "Weapon_Pistol.WorldReload"

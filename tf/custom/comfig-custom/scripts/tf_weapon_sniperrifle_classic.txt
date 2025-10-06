@@ -20,7 +20,7 @@
 	"default_clip" "75"
 	"bucket" "0"
 	"bucket_position" "0"
-	"MuzzleFlashParticleEffect" ""
+	"MuzzleFlashParticleEffect" "muzzle_sniperrifle"
 	"anim_prefix" "shotgun"
 	"SoundData"
 	{

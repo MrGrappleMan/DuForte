@@ -24,7 +24,7 @@
 	"bucket" "1"
 	"bucket_position" "0"
 	"anim_prefix" "ac"
-	"MuzzleFlashParticleEffect" ""
+	"MuzzleFlashParticleEffect" "muzzle_pistol"
 	"SoundData"
 	{
 		"reload" "Weapon_Pistol.WorldReload"

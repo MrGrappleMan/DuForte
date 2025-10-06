@@ -27,7 +27,7 @@
 	"bucket" "1"
 	"bucket_position" "0"
 	"anim_prefix" "shotgun"
-	"MuzzleFlashParticleEffect" ""
+	"MuzzleFlashParticleEffect" "muzzle_shotgun"
 	"SoundData"
 	{
 		"single_shot" "Weapon_Shotgun.Single"

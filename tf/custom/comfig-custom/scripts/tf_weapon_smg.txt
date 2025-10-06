@@ -23,7 +23,7 @@
 	"bucket" "1"
 	"bucket_position" "0"
 	"TracerEffect" "bullet_pistol_tracer01"
-	"MuzzleFlashParticleEffect" ""
+	"MuzzleFlashParticleEffect" "muzzle_smg"
 	"viewmodel" "models/weapons/c_models/c_smg/c_smg.mdl"
 	"playermodel" "models/weapons/c_models/c_smg/c_smg.mdl"
 	"anim_prefix" "ac"
