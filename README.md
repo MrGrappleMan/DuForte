@@ -10,7 +10,7 @@ This configuration is made in mind with average end computers, but not too low.
    You have to put the "tf" folder alongside the "tf" folder pre-existing on your machine, which will merge the folders and may replace some content.
 2. Use these launch options in Steam:
 ```
--nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full
+-novid -nostartupsound -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full -vulkan
 ```
 Remove the first 2 flags if you use Steam Remote play or any sort of controller.
 3. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
