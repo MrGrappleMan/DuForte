@@ -1,4 +1,7 @@
+# DuForte
+
 ### Please backup any configurations, huds, maps or sound files if you have any, or move them away prior to using this
+This configuration is made in mind with average end computers, but not too low.
 
 ![Latest commit made to project on](https://img.shields.io/github/last-commit/MrGrappleMan/DuForte?style=for-the-badge)
 
