@@ -1,18 +1,33 @@
-# DuForte
+<div align="center">
+
+# 🔫🥷 DuForte
+### A Team Fortress 2 configuration for enhancing gameplay performance
+
+![License](https://img.shields.io/github/license/MrGrappleMan/Fynelium-NT?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/MrGrappleMan/Fynelium-NT?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/MrGrappleMan/Fynelium-NT?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MrGrappleMan/Fynelium-NT?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/MrGrappleMan/Fynelium-NT?style=for-the-badge)
+
+**Kaboom! 💣️ Mmpmh! ❤️‍🔥 Not Medicine! 💉 Sandvich! 🥪**
+
+</div>
 
 ### Please backup any configurations, huds, maps or sound files if you have any, or move them away prior to using this
 This configuration is made in mind with average end computers, but not too low.
 
 ![Latest commit made to project on](https://img.shields.io/github/last-commit/MrGrappleMan/DuForte?style=for-the-badge)
 
-# To apply config:
-1. [Download](https://github.com/MrGrappleMan/DuForte/archive/refs/heads/main.zip) and extract.
-   You have to put the "tf" folder alongside the "tf" folder pre-existing on your machine, which will merge the folders and may replace some content.
+# Install:
+1. [Download](https://github.com/MrGrappleMan/DuForte/archive/refs/heads/main.zip) and extract
+2. Put the "tf" folder alongside the "tf" folder in the game forlder, which will merge them
 2. Use these launch options in Steam:
 ```
 -novid -nostartupsound -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full -vulkan
 ```
-Remove the first 2 flags if you use Steam Remote play or any sort of controller.
-3. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
+Remove `-nojoy -nosteamcontroller` for Steam Remote play or controller compatibility - their remove reduces latency
+`-vulkan` can cause issues on old devices so you may remove that
 
-It uses a mix of [mastercomfig](https://comfig.app/app/) 9.100.0 settings and custom aliases for enhancing performance.
+4. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
+
+It uses a mix of [mastercomfig](https://comfig.app/app/) 9.100.0 and custom additions
