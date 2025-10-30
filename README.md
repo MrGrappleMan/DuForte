@@ -22,7 +22,7 @@ This configuration is made in mind with average end computers, but not too low. 
 
 </div>
 
-1. [Download](https://github.com/MrGrappleMan/DuForte/archive/refs/heads/main.zip) and extract \
+1. ![Download](https://github.com/MrGrappleMan/DuForte/archive/refs/heads/main.zip) and extract \
 2. Put the "tf" folder alongside the "tf" folder in the game folder, which will merge them \
 3. Put these launch options in Steam:
 
@@ -34,6 +34,6 @@ Remove `-nojoy -nosteamcontroller` for Steam Remote play or controller compatibi
 `-vulkan` can cause issues on old devices so you may remove that \
 Avoid forcing a compatibility tool like Proton for Linux, you may try for performance but it gives most players an insecure mode issue - because of VAC suspicion
 
-4. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
+4. Use this ![HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
 
 It uses a mix of [mastercomfig](https://comfig.app/app/) 9.100.0 and custom additions
