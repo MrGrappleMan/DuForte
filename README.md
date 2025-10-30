@@ -14,19 +14,25 @@
 </div>
 
 ### Please backup any configurations, huds, maps or sound files if you have any, or move them away prior to using this
-This configuration is made in mind with average end computers, but not too low.
+This configuration is made in mind with average end computers, but not too low. It aims to prioritize FPS and reduce input latency.
 
-![Latest commit made to project on](https://img.shields.io/github/last-commit/MrGrappleMan/DuForte?style=for-the-badge)
+<div align="center">
 
-# Install:
-1. [Download](https://github.com/MrGrappleMan/DuForte/archive/refs/heads/main.zip) and extract
-2. Put the "tf" folder alongside the "tf" folder in the game forlder, which will merge them
-2. Use these launch options in Steam:
+# ⚙️ Installation ⬇️
+
+</div>
+
+1. [Download](https://github.com/MrGrappleMan/DuForte/archive/refs/heads/main.zip) and extract \
+2. Put the "tf" folder alongside the "tf" folder in the game folder, which will merge them \
+3. Put these launch options in Steam:
+
 ```
 -novid -nostartupsound -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full -vulkan
 ```
-Remove `-nojoy -nosteamcontroller` for Steam Remote play or controller compatibility - their remove reduces latency
-`-vulkan` can cause issues on old devices so you may remove that
+
+Remove `-nojoy -nosteamcontroller` for Steam Remote play or controller compatibility - their removal reduces latency \
+`-vulkan` can cause issues on old devices so you may remove that \
+Avoid forcing a compatibility tool like Proton for Linux, you may try for performance but it gives most players an insecure mode issue - because of VAC suspicion
 
 4. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
 
