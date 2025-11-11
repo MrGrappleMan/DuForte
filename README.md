@@ -3,11 +3,11 @@
 # 🔫🥷 DuForte
 ### A Team Fortress 2 configuration for enhancing gameplay performance
 
-![License](https://img.shields.io/github/license/MrGrappleMan/Fynelium-NT?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/MrGrappleMan/Fynelium-NT?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/MrGrappleMan/Fynelium-NT?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MrGrappleMan/Fynelium-NT?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/MrGrappleMan/Fynelium-NT?style=for-the-badge)
+![License](https://img.shields.io/github/license/MrGrappleMan/DuForte?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/MrGrappleMan/DuForte?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/MrGrappleMan/DuForte?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MrGrappleMan/DuForte?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/MrGrappleMan/DuForte?style=for-the-badge)
 
 **Kaboom! 💣️ Mmpmh! ❤️‍🔥 Not Medicine! 💉 Sandvich! 🥪**
 
