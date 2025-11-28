@@ -29,10 +29,10 @@ This configuration is made in mind with average end computers, but not too low. 
 ```
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full -vulkan
 ```
-
+You may insert `-nostartupsound`, but it will not do anything good
 Remove `-nojoy -nosteamcontroller` for Steam Remote play or controllers - their removal reduces latency \
 Remove `-vulkan` if old devices experience issues \
-Avoid forcing a compatibility tool like Proton for Linux, you may try for performance but it gives most players an insecure mode issue - because of VAC suspicion. Native is safer
+Avoid Proton for Linux, theres the performance factor but it gives most players an insecure mode issue - because of VAC suspicion. Native is safer and usually faster
 
 4. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
 
