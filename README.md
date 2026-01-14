@@ -41,7 +41,12 @@ Inserting `-nostartupsound`, but it will not do anything good performance-wise
 
 It uses a mix of the latest [mastercomfig](https://comfig.app/app/) modifications, other sounds and textures
 
+# QoL Adjustments
+
+Custom scripting
+Silenced XP bar, self made implementation
+
 ## Mods to insert manually
 They utilize a Non Derivative Model, so you have to get them yourself
 
-[XP Chime silencer](https://gamebanana.com/sounds/download/85221)
+Currently none.
