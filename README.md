@@ -9,7 +9,7 @@
 ![Stars](https://img.shields.io/github/stars/MrGrappleMan/DuForte?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/MrGrappleMan/DuForte?style=for-the-badge)
 
-**| Aim | Speed | Accuracy | NullOverhead |**
+**| Aim | Speed | Accuracy | Minimal overhead |**
 
 </div>
 
@@ -27,7 +27,7 @@ This configuration is made in mind with average end computers, but not too low. 
 3. Put these launch options in Steam:
 
 ```
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -high -full -vulkan
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -vulkan
 ```
 Remove `-nojoy -nosteamcontroller` for Steam Remote Play or controllers - their removal reduces latency \
 Remove `-vulkan` on old devices - if experience issues \
@@ -35,7 +35,13 @@ Do not force any compatibility layer - native, usually faster, safer. theres the
 but it gives most players an insecure mode issue because of VAC suspicion.
 
 Inserting `-nostartupsound`, but it will not do anything good performance-wise
+`-high` causes increase in input lag
 
 4. Use this [HUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/)
 
 It uses a mix of the latest [mastercomfig](https://comfig.app/app/) modifications, other sounds and textures
+
+## Mods to insert manually
+They utilize a Non Derivative Model, so you have to get them yourself
+
+[XP Chime silencer](https://gamebanana.com/sounds/download/85221)
