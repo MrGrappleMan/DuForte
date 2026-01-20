@@ -25,7 +25,7 @@
 	"bucket_position" "0"
 	"ExplosionSound" "Weapon_Grenade_Pipebomb.Explode"
 	"ExplosionEffect" "duck_collect_trail_special_red"
-	"ExplosionPlayerEffect" "ExplosionCore_sapperdestroyed"
+	"ExplosionPlayerEffect" "duck_collect_trail_special_red"
 	"ExplosionWaterEffect" "duck_collect_trail_special_red"
 	"anim_prefix" "pipe"
 	"MuzzleFlashParticleEffect" ""
