@@ -19,7 +19,7 @@ It prioritizes performance over looks but not too much
 
 Mastercomfig - Low graphics
 Custom scripting
-Silenced XP bar, to prevent the continuous sound which is a current bug
+Silenced XP bar chime
 Killsound - (DiRT 2)[https://gamebanana.com/sounds/81623]
 
 <div align="center">
@@ -45,8 +45,7 @@ in Proton but it gives most players an insecure mode issue because of VAC suspic
 Inserting `-nostartupsound`, but it will not do anything good performance-wise
 `-high` causes increase in input lag
 
-4. Optionally, get [ProductHUD](https://comfig.app/huds/page/producthud/)'s prerelease version externally, I do not own it
-Or the legacy [ToonHUD](https://toonhud.com/user/mrgrapplemann/theme/M54UMDUK/) that was originally meant for this
+You may use [ProductHUD](https://comfig.app/huds/page/producthud/) but remove duforte-ui, which is a ToonHud theme
 
 ## Mods to insert manually
 They utilize a Non Derivative Model, so you have to get them yourself
