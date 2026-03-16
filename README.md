@@ -39,10 +39,8 @@ merge them
 3. Put these launch options in Steam
 
 ```sh
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -vulkan +fps_max 60
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -vulkan
 ```
-
-Set 60 in +fps_max 60 to your monitor's refresh rate
 
 Remove `-nojoy -nosteamcontroller` for Steam Remote Play or controllers - their
 removal reduces latency
