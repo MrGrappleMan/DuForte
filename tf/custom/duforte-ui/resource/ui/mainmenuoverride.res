@@ -2122,7 +2122,7 @@
 		"navUp"			"Bookmark_2"
 		"navRight"		"Notifications_ShowButtonPanel"
 		"navToRelay"	"SubButton"
-		"labelText"		"Itemtest" // 2 BM3
+		"labelText"		"testmap" // 2 BM3
 		"textinsetx"	"10"
 		"pin_to_sibling"			"G_BookmarkPanel"
 		"pin_corner_to_sibling"		"0"
@@ -2239,7 +2239,7 @@
 		"navDown"		"Bookmark_5"
 		"navRight"		"Bookmark_4"
 		"navToRelay"	"SubButton"
- 		"labelText"		"Itemtest" // 2 BM3
+ 		"labelText"		"testmap" // 2 BM3
  		"textinsetx"	"10"
 		"pin_to_sibling"			"G_BookmarkPanel"
 		"pin_corner_to_sibling"		"0"
@@ -2308,14 +2308,14 @@
 		"tall"			"20"
 		"zpos"			"11"
 		"visible"		"1" // 1 BM5
-		"Command"		"engine unalias clrit" // 3 BM5
+		"Command"		"engine explode" // 3 BM5
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"NoBorder"
 		"navUp"			"Bookmark_3"
 		"navRight"		"Bookmark_6"
 		"navToRelay"	"SubButton"
-		"labelText"		"Debug" // 2 BM5
+		"labelText"		"Explode" // 2 BM5
 		"textinsetx"	"10"
 		"pin_to_sibling"			"G_BookmarkPanel"
 		"pin_corner_to_sibling"		"0"

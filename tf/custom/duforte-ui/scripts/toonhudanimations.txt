@@ -6,8 +6,8 @@ event Hitmarker
 {
 
 	// Team colored hitmarker
-	Animate	Hitmarker	Alpha	"255"	Linear 0.0 0.0		// tcHitmarker start
-	Animate	Hitmarker	Alpha	"0"		Linear 0.0 0.95 	// tcHitmarker end
+	//# Animate	Hitmarker	Alpha	"255"	Linear 0.0 0.0		// tcHitmarker start
+	//# Animate	Hitmarker	Alpha	"0"		Linear 0.0 0.95 	// tcHitmarker end
 	
 	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker1 start
 	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker1 end
@@ -15,8 +15,8 @@ event Hitmarker
 	//# Animate Crosshair2 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker2 start
 	//# Animate Crosshair2 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker2 end
 	
-	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker3 start
-	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker3 end
+	 Animate Crosshair3 Alpha "225" 	Linear 0.0 0.0		// CrosshairHitmarker3 start
+	 Animate Crosshair3 Alpha "255" 	Linear 0.0 0.135 	// CrosshairHitmarker3 end
 	
 }
 
@@ -371,5 +371,9 @@ event HudTournament_ShowTimerDefault
 	SetVisible CountdownLabel 1 0
 	SetVisible CountdownLabelShadow 1 0
 }
+
+
+
+
 
 

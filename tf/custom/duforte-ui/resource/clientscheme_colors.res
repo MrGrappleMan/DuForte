@@ -13,8 +13,8 @@ Scheme
 		"G_Red"					"230 0 0 255"
 		"G_Shadow"				"0 0 0 38" // Shadow color
 		"G_LightShadow"			"0 0 0 110"
-		"G_Heal"				"160 255 160 255" // Heal color
-		"G_Hit"					"255 88 88 255" // Hit color
+		"G_Heal"				"0 255 0 255" // Heal color
+		"G_Hit"					"255 0 0 255" // Hit color
 		"G_Brown"				"49 44 41 255"
 		"G_Yellow"				"235 220 50 255"
 		"G_WhiteShadow"			"255 255 255 50"
@@ -30,12 +30,12 @@ Scheme
 		"G_Warning"				"255 0 0 255" // Warning color
 		"G_HealthValue"			"255 255 255 255" // Health value color
 		"G_Overheal"			"0 0 0 255" // Overhealed health value color
-		"G_LowHealthValue"		"163 255 255 255" // Low health value color
+		"G_LowHealthValue"		"206 255 255 255" // Low health value color
 		"G_AmmoClipValue"		"255 255 255 255" // Ammo in clip value color
 		"G_AmmoReserveValue"	"231 255 230 255" // Ammo in reserve value color
 		"G_LowAmmo"				"255 0 0 255" // Low ammo color
 		"G_MetalValue"			"255 255 255 255" // Metal color
-		"G_MetalIcon"			"211 211 211 255" // Metal icon color
+		"G_MetalIcon"			"234 234 234 255" // Metal icon color
 		"G_HeadsValue"			"255 255 255 255" // Heads value color
 		"G_HeadsLabel"			"0 255 0 255" // Heads value icon color
 		"G_KillstreakValue"		"255 255 255 255" // Killstreak value color

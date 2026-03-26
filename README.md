@@ -38,7 +38,7 @@ merge them
 3. Put these launch options in Steam
 
 ```sh
-%command% -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -vulkan -console -noquicktime +mat_queue_mode 2 +fps_max 122
+%command% -novid -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -console -noquicktime +mat_queue_mode 2 -nojoy -nosteamcontroller -vulkan +fps_max 122
 ```
 
 ### Adjustments to make

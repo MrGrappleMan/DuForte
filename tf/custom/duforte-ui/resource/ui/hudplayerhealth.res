@@ -8,8 +8,8 @@
 		"xpos"				"cs-0.5"
 		"ypos"				"cs-0.5"
 		"zpos"				"198"
-		"wide"				"16" // Crosshair1 size
-		"tall"				"16" // Crosshair1 size
+		"wide"				"18" // Crosshair1 size
+		"tall"				"18" // Crosshair1 size
 		"visible"			"1" // Crosshair1 enabled
 		"enabled"			"1" // Crosshair1 enabled
 		"image"				"replay/thumbnails/xhairs/xhair1"
@@ -47,7 +47,7 @@
 		"image"				"replay/thumbnails/xhairs/xhair3"
 		"scaleImage"		"1"
 		"drawcolor"			"G_Crosshair3Color"
-		"Alpha"				"156" // Crosshair3 opacity
+		"Alpha"				"255" // Crosshair3 opacity
 	}
 
 	"Hitmarker"
@@ -744,7 +744,6 @@
 		"fgcolor"		"TanDark"
 	}
 }
-
 
 
 
