@@ -42,10 +42,10 @@ Scheme
 		"G_KillstreakIcon"		"255 0 0 255" // Killstreak icon color
 		"G_StickyColor"					"255 255 255 255" // Stickybomb color
 		"G_StickyIconColor"				"255 255 0 255" // Stickybomb icon color
-		"G_CustomTargetID" 				"0 0 0 255" // Custom target id bg color
+		"G_CustomTargetID" 				"0 0 0 115" // Custom target id bg color
 		"G_CustomBuildingStatusBg" 		"0 0 0 179" // Custom building status bg color
 		"G_TargetHealthValue" 			"255 255 255 255" // Target ID health value color
-		"G_TargetHealthValueShadow" 	"0 0 0 0" // Target ID health value shadow color
+		"G_TargetHealthValueShadow" 	"0 0 0 26" // Target ID health value shadow color
 		"G_Killfeed_Base"			"0 0 0 128" // Killfeed Base color
 		"G_Killfeed_Local"			"218 218 218 153" // Killfeed Local color
 		"G_CenteredMetalBg"			"0 0 30 64" // Centered metal background color
@@ -66,8 +66,8 @@ Scheme
 		"G_DimmFooterText"			"255 255 255 120" // Dimm Footer text color
 		"G_OuterBorder"				"255 0 0 77" // Outer border color
 		"G_InnerBorder"				"118 0 255 122" // Inner border color
-		"G_KillfeedBlue"			"0 126 255 255" // Killfeed blue text
-		"G_KillfeedRed"				"255 0 0 255" // Killfeed red text
+		"G_KillfeedBlue"			"0 64 255 255" // Killfeed blue text
+		"G_KillfeedRed"				"255 16 0 255" // Killfeed red text
 		"G_KillfeedIcon"			"255 255 255 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
 		"G_MainMenuOverlay"			"80 48 12 120" // Main Menu overlay color
@@ -95,7 +95,7 @@ Scheme
 		"G_MiniButtonHoverBg"		"10 10 10 255" // Mini button hover bg color
 		"G_GhostWhite"				"255 255 255 210"
 		"G_ItemMeterBg"				"0 0 0 204" // Item meter bg
-		"G_ItemMeterBorder"			"0 0 0 0" // Item meter border color
+		"G_ItemMeterBorder"			"0 0 0 128" // Item meter border color
 		"G_MenuShader"				"15 0 36 255" // Menu shader color
 		"G_XPBar"					"202 0 255 255" // XP Bar color
 		"G_ItemEffectMeterLineColor"	"120 120 120 130"

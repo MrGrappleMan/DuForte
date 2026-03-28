@@ -2122,7 +2122,7 @@
 		"navUp"			"Bookmark_2"
 		"navRight"		"Notifications_ShowButtonPanel"
 		"navToRelay"	"SubButton"
-		"labelText"		"testmap" // 2 BM3
+		"labelText"		"Testmap" // 2 BM3
 		"textinsetx"	"10"
 		"pin_to_sibling"			"G_BookmarkPanel"
 		"pin_corner_to_sibling"		"0"
@@ -2239,7 +2239,7 @@
 		"navDown"		"Bookmark_5"
 		"navRight"		"Bookmark_4"
 		"navToRelay"	"SubButton"
- 		"labelText"		"testmap" // 2 BM3
+ 		"labelText"		"Testmap" // 2 BM3
  		"textinsetx"	"10"
 		"pin_to_sibling"			"G_BookmarkPanel"
 		"pin_corner_to_sibling"		"0"
