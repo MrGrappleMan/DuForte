@@ -38,19 +38,18 @@ merge them
 3. Put these launch options in Steam
 
 ```sh
-%command% -novid -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -console -noquicktime +mat_queue_mode 2 -nojoy -nosteamcontroller -vulkan +fps_max 122
+mangohud scb -f -F fsr -w 1920 -h 1080 -W 1920 -H 1080 --force-grab-cursor -- %command% -novid -nohltv -particles 1 -precachefontchars -noipx -softparticlesdefaultoff -full -noquicktime +mat_queue_mode 2 -nojoy -nosteamcontroller -vulkan +fps_max 62
 ```
 
-### Adjustments to make
+### Considerations
 
-Set the max FPS from 122 to 2 + Display's max FPS
-Remove `-nojoy -nosteamcontroller` for Steam Remote Play or controllers
-removalby default on PC reduces input lag
-Remove `-vulkan` if you experience issues. Generally improves performance
-but may cause the inverse effect on some older devices
-No compatibility layer - native is usually faster, safer and efficient.
-There is the performance factor in Proton but it gives most players an insecure
-mode due to VAC.
+Set +fps_max from 2 + Display FPS
+Remove `-nojoy -nosteamcontroller` for Steam Remote Play or controllers as \
+removal by default on PC reduces input lag
+Remove `-vulkan` if old hardwware issues occur. Vulkan is a modern graphics API.
+Do not force any compatibility layer as VAC is blocked. Good on other games.
+Assumes you use Bazzite and have MangoHud on your system.
+Set the resolution for both W H and w h to be the same
 
 ### Explanations for unwanted launch options
 
@@ -58,5 +57,3 @@ mode due to VAC.
 `-high` causes increase in input lag, it is mainly meant for high performance \
 short lived tasks
 `-threads X` Valve does not recommened using it. Default X = 3
-
-`
