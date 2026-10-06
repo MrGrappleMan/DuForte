@@ -260,8 +260,8 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"TFCharacterImage"
-		"xpos"			"c-250" // 1 RMMC
-		"ypos"			"-80" // 1 RMMC
+		"xpos"			"-9999" // 1 RMMC
+		"ypos"			"-9999" // 1 RMMC
 		"zpos"			"-99"
 		"wide"			"600" // 2 RMMC
 		"tall"			"600" // 2 RMMC
@@ -4566,6 +4566,7 @@
 		}
 	}
 }
+
 
 
 

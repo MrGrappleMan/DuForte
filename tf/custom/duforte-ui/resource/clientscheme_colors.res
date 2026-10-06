@@ -24,9 +24,9 @@ Scheme
 		"G_LightGrey"			"180 180 180 255" // Metal color in build/destroy menu
 		"G_HealthBarBg"			"0 0 0 220" // Target health bg
 		"G_CurrencyBad"			"255 60 60 255" // Red currency in MvM
-		"G_TransparentMenuBG"	"227 44 44 51" // Transparent menu color
-		"G_PanelBg"				"36 16 0 204" // Panel color
-		"G_OpaquePanelBg"		"36 16 0 255" // Opaque Panel color
+		"G_TransparentMenuBG"	"227 44 44 0" // Transparent menu color
+		"G_PanelBg"				"0 0 0 230" // Panel color
+		"G_OpaquePanelBg"		"0 0 0 255" // Opaque Panel color
 		"G_Warning"				"255 0 0 255" // Warning color
 		"G_HealthValue"			"255 255 255 255" // Health value color
 		"G_Overheal"			"0 0 0 255" // Overhealed health value color
@@ -60,31 +60,31 @@ Scheme
 		"G_TeamButtonRed"			"189 58 58 100"
 		"G_TeamButtonBlueArmed"		"111 142 160 255"
 		"G_TeamButtonRedArmed"		"209 78 78 255"		
-		"G_Footer"					"0 38 63 255" // Menu footer color
+		"G_Footer"					"0 0 0 255" // Menu footer color
 		"G_DimmFooter"				"28 23 19 200" // Dimm Menu footer color
 		"G_FooterText"				"255 255 255 255" // Footer text color
 		"G_DimmFooterText"			"255 255 255 120" // Dimm Footer text color
-		"G_OuterBorder"				"255 0 0 77" // Outer border color
-		"G_InnerBorder"				"118 0 255 122" // Inner border color
+		"G_OuterBorder"				"255 255 255 255" // Outer border color
+		"G_InnerBorder"				"118 0 255 0" // Inner border color
 		"G_KillfeedBlue"			"0 96 255 255" // Killfeed blue text
 		"G_KillfeedRed"				"255 32 0 255" // Killfeed red text
 		"G_KillfeedIcon"			"255 255 255 255" // Killfeed icon color
 		"G_CustomHealthValue"		"120 120 120 255"
-		"G_MainMenuOverlay"			"80 48 12 120" // Main Menu overlay color
-		"G_MainMenuPanel"			"0 51 64 97" // Main Menu panel color
-		"G_MainMenuButton"			"9 13 57 255" // Main Menu button color
+		"G_MainMenuOverlay"			"0 0 0 77" // Main Menu overlay color
+		"G_MainMenuPanel"			"0 51 64 0" // Main Menu panel color
+		"G_MainMenuButton"			"0 0 0 255" // Main Menu button color
 		"G_MainMenuButtonHover"		"54 132 255 255" // Main Menu hovered button color
 		"G_MainMenuButtonFg"		"255 255 255 255" // Main Menu button text color
 		"G_MainMenuButtonHoverFg"	"242 255 0 255" // Main Menu hovered button text color
-		"G_MainMenuShader" 			"0 145 130 79" // Main Menu shader color
+		"G_MainMenuShader" 			"0 0 0 0" // Main Menu shader color
 		"G_BackpackItemBg"			"11 11 11 255" // Backpack item bg color
-		"G_LoadoutItemBg"			"0 28 21 255" // Loadout item bg color
-		"G_MenuBg"					"25 0 43 255" // Menu bg color
+		"G_LoadoutItemBg"			"0 41 31 255" // Loadout item bg color
+		"G_MenuBg"					"15 0 26 255" // Menu bg color
 		"G_MenuText"				"255 255 255 255" // Menu text color
 		"G_InputText"				"0 0 0 255" // Input text color
 		"G_DimmInputText"			"0 0 0 100" // Dimm Input text color
 		"G_DimmMenuText"			"255 255 255 120" // Dimm Menu text color
-		"G_ItemDescriptionPanelBg"	"0 0 0 255" // Item description panel bg
+		"G_ItemDescriptionPanelBg"	"18 0 11 255" // Item description panel bg
 		"G_ButtonBg"				"23 23 23 255" // Button bg color
 		"G_ButtonText"				"255 255 255 255" // Button text color
 		"G_ButtonHoverBg"			"0 82 142 255" // Button hover bg color
